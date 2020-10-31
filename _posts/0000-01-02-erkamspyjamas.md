@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+System.out.println("Love is a good thing.");
 Use the left arrow to go back!
